@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7c02e173.css",
+    "main.js": "/portfolio/static/js/main.d36d4b2f.js",
+    "static/media/postman.png": "/portfolio/static/media/postman.5ac8436f13453165f696.png",
+    "static/media/priya_resum.pdf": "/portfolio/static/media/priya_resum.e1d227296346768c16d5.pdf",
+    "static/media/img.jpeg": "/portfolio/static/media/img.5d4a9d368d88a0c8e4c3.jpeg",
+    "static/media/mongodb.png": "/portfolio/static/media/mongodb.bbf41ad171d5dc1c5f63.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.2352515dea996bffcb85.png",
+    "static/media/excel.png": "/portfolio/static/media/excel.7627399c628849648d2c.png",
+    "static/media/api.png": "/portfolio/static/media/api.add8befc2e934b192036.png",
+    "static/media/tab.png": "/portfolio/static/media/tab.8fa8f6a69073b2e14d09.png",
+    "static/media/phone.png": "/portfolio/static/media/phone.ce4a39916015d848f601.png",
+    "static/media/email.png": "/portfolio/static/media/email.d346fcb882ae2c94bbfe.png",
+    "static/media/po.png": "/portfolio/static/media/po.c45cb4ab9fa92363d971.png",
+    "static/media/database.png": "/portfolio/static/media/database.bb2414e41e43ae15410c.png",
+    "static/media/cancel.png": "/portfolio/static/media/cancel.fb8a92549676b8496b24.png",
+    "index.html": "/portfolio/index.html",
+    "main.7c02e173.css.map": "/portfolio/static/css/main.7c02e173.css.map",
+    "main.d36d4b2f.js.map": "/portfolio/static/js/main.d36d4b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c02e173.css",
+    "static/js/main.d36d4b2f.js"
+  ]
+}
